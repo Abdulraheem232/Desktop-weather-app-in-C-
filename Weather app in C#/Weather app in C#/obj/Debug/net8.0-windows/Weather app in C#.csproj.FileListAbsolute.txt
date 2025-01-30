@@ -1,0 +1,20 @@
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Weather app in C#\Weather app in C#\bin\Debug\net8.0-windows\Weather app in C#.exe
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Weather app in C#\Weather app in C#\bin\Debug\net8.0-windows\Weather app in C#.deps.json
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Weather app in C#\Weather app in C#\bin\Debug\net8.0-windows\Weather app in C#.runtimeconfig.json
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Weather app in C#\Weather app in C#\bin\Debug\net8.0-windows\Weather app in C#.dll
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Weather app in C#\Weather app in C#\bin\Debug\net8.0-windows\Weather app in C#.pdb
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Weather app in C#\Weather app in C#\obj\Debug\net8.0-windows\Weather_app_in_C_.Form1.resources
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Weather app in C#\Weather app in C#\obj\Debug\net8.0-windows\Weather app in C#.csproj.GenerateResource.cache
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Weather app in C#\Weather app in C#\obj\Debug\net8.0-windows\Weather app in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Weather app in C#\Weather app in C#\obj\Debug\net8.0-windows\Weather app in C#.AssemblyInfoInputs.cache
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Weather app in C#\Weather app in C#\obj\Debug\net8.0-windows\Weather app in C#.AssemblyInfo.cs
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Weather app in C#\Weather app in C#\obj\Debug\net8.0-windows\Weather app in C#.csproj.CoreCompileInputs.cache
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Weather app in C#\Weather app in C#\obj\Debug\net8.0-windows\Weather app in C#.dll
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Weather app in C#\Weather app in C#\obj\Debug\net8.0-windows\refint\Weather app in C#.dll
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Weather app in C#\Weather app in C#\obj\Debug\net8.0-windows\Weather app in C#.pdb
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Weather app in C#\Weather app in C#\obj\Debug\net8.0-windows\Weather app in C#.genruntimeconfig.cache
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Weather app in C#\Weather app in C#\obj\Debug\net8.0-windows\ref\Weather app in C#.dll
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Weather app in C#\Weather app in C#\obj\Debug\net8.0-windows\Weather_app_in_C_.Properties.Resources.resources
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Weather app in C#\Weather app in C#\obj\Debug\net8.0-windows\Weather app in C#.csproj.AssemblyReference.cache
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Weather app in C#\Weather app in C#\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Weather app in C#\Weather app in C#\obj\Debug\net8.0-windows\Weather .0C53C346.Up2Date
